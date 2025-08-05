@@ -154,30 +154,6 @@ server.port=8080
 
 ---
 
-## 📌 API Documentation
 
-API endpoints (example):
 
-* `POST /api/auth/register` – Register a user
-* `POST /api/auth/login` – Login
-* `GET /api/jobs` – List all jobs
-* `POST /api/jobs` – Post a new job
-* `POST /api/applications` – Apply to a job
 
-You can document all APIs using Swagger or Postman if needed.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repo and submit a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you want me to generate a **real `README.md` file** from this content.
