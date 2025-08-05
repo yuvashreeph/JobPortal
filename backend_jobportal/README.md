@@ -1,5 +1,4 @@
 # Job Portal Application - Backend
-**Frontend** : https://github.com/vidarshanaa15/frontend_jobportal
 
 ## Table of Contents
 - [Description](#description)
