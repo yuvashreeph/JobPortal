@@ -49,7 +49,7 @@ This Job Portal Application is designed to streamline the job hiring and applica
 ## 📁 Project Structure
 
 ```plaintext
-job-portal/
+jobPortal/
 │
 ├── backend/               # Spring Boot project
 │   ├── src/main/java/
